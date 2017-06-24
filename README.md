@@ -9,7 +9,7 @@ A vim colorscheme for use with **[wal](https://github.com/dylanaraps/wal)**.
 
 ```vim
 ! Using plug
-Plug 'dylanaraps/wal'
+Plug 'dylanaraps/wal.vim'
 
 colorscheme wal
 ```
