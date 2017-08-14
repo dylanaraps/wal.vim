@@ -13,3 +13,6 @@ Plug 'dylanaraps/wal.vim'
 
 colorscheme wal
 ```
+
+Note, if using [Vundle](https://github.com/VundleVim/Vundle.vim), `colorscheme wal` declaration must come after `call vundle#end()`. This may similarly apply to other plugin managers.
+
