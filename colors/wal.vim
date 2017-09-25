@@ -21,7 +21,7 @@ hi NonText ctermbg=NONE ctermfg=0 cterm=NONE
 hi Comment ctermbg=NONE ctermfg=8 cterm=NONE
 hi Constant ctermbg=NONE ctermfg=3 cterm=NONE
 hi Error ctermbg=1 ctermfg=7 cterm=NONE
-hi Identifier ctermbg=NONE ctermfg=1 cterm=NONE
+hi Identifier ctermbg=NONE ctermfg=1 cterm=BOLD
 hi Ignore ctermbg=8 ctermfg=0 cterm=NONE
 hi PreProc ctermbg=NONE ctermfg=3 cterm=NONE
 hi Special ctermbg=NONE ctermfg=6 cterm=NONE
@@ -103,7 +103,7 @@ hi vimMapModKey ctermbg=NONE ctermfg=4 cterm=NONE
 hi vimBracket ctermbg=NONE ctermfg=7 cterm=NONE
 hi vimCommentString ctermbg=NONE ctermfg=8 cterm=NONE
 hi htmlLink ctermbg=NONE ctermfg=1 cterm=underline
-hi htmlBold ctermbg=NONE ctermfg=3 cterm=NONE
+hi htmlBold ctermbg=NONE ctermfg=3 cterm=BOLD
 hi htmlItalic ctermbg=NONE ctermfg=5 cterm=NONE
 hi htmlEndTag ctermbg=NONE ctermfg=7 cterm=NONE
 hi htmlTag ctermbg=NONE ctermfg=7 cterm=NONE
