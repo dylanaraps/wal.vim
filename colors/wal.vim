@@ -44,7 +44,7 @@ hi LineNr ctermbg=NONE ctermfg=8
 hi CursorLineNr ctermbg=NONE ctermfg=8
 hi helpLeadBlank ctermbg=NONE ctermfg=7
 hi helpNormal ctermbg=NONE ctermfg=7
-hi Visual ctermbg=8 ctermfg=0
+hi Visual ctermbg=0 ctermfg=15 cterm=reverse term=reverse
 hi VisualNOS ctermbg=NONE ctermfg=1
 hi Pmenu ctermbg=8 ctermfg=7
 hi PmenuSbar ctermbg=6 ctermfg=7
