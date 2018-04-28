@@ -149,6 +149,8 @@ hi markdownError ctermbg=NONE ctermfg=7
 hi markdownCode ctermbg=NONE ctermfg=3
 hi markdownCodeBlock ctermbg=NONE ctermfg=3
 hi markdownCodeDelimiter ctermbg=NONE ctermfg=5
+hi markdownItalic cterm=Italic
+hi markdownBold cterm=Bold
 hi xdefaultsValue ctermbg=NONE ctermfg=7
 hi rubyInclude ctermbg=NONE ctermfg=4
 hi rubyDefine ctermbg=NONE ctermfg=5
