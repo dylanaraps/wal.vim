@@ -73,7 +73,7 @@ hi Cursor ctermbg=NONE ctermfg=8
 hi Structure ctermbg=NONE ctermfg=5
 hi CursorColumn ctermbg=8 ctermfg=7
 hi ModeMsg ctermbg=NONE ctermfg=7
-hi SpellBad ctermbg=1 ctermfg=0
+hi SpellBad ctermbg=NONE ctermfg=1 cterm=underline
 hi SpellCap ctermbg=NONE ctermfg=4 cterm=underline
 hi SpellLocal ctermbg=NONE ctermfg=5 cterm=underline
 hi SpellRare ctermbg=NONE ctermfg=6 cterm=underline
@@ -143,7 +143,7 @@ hi markdownH1 ctermbg=NONE ctermfg=7
     hi link markdownH4 markdownH1
     hi link markdownH5 markdownH1
     hi link markdownH6 markdownH1
-hi markdownAutomaticLink ctermbg=NONE ctermfg=1 cterm=underline
+hi markdownAutomaticLink ctermbg=NONE ctermfg=2 cterm=underline
     hi link markdownUrl markdownAutomaticLink
 hi markdownError ctermbg=NONE ctermfg=7
 hi markdownCode ctermbg=NONE ctermfg=3
