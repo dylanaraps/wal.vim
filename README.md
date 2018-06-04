@@ -8,7 +8,7 @@ A vim colorscheme for use with **[pywal](https://github.com/dylanaraps/pywal)**.
 ## Installation
 
 ```vim
-“ Using plug
+" Using plug
 Plug 'dylanaraps/wal.vim'
 
 colorscheme wal
