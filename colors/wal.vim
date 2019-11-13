@@ -40,7 +40,7 @@ hi TabLineSel ctermbg=4 ctermfg=0
 hi TermCursorNC ctermbg=3 ctermfg=0
 hi VertSplit ctermbg=8 ctermfg=0
 hi Title ctermbg=NONE ctermfg=4
-hi CursorLine ctermbg=8 ctermfg=0
+hi CursorLine ctermbg=2 ctermfg=0
 hi LineNr ctermbg=NONE ctermfg=8
 hi CursorLineNr ctermbg=NONE ctermfg=8
 hi helpLeadBlank ctermbg=NONE ctermfg=7
@@ -62,7 +62,7 @@ hi DiffText ctermbg=NONE ctermfg=4
 hi IncSearch ctermbg=3 ctermfg=0
 hi Search ctermbg=3 ctermfg=0
 hi Directory ctermbg=NONE ctermfg=4
-hi MatchParen ctermbg=8 ctermfg=0
+hi MatchParen ctermbg=1 ctermfg=8
 hi ColorColumn ctermbg=4 ctermfg=0
 hi signColumn ctermbg=NONE ctermfg=4
 hi ErrorMsg ctermbg=NONE ctermfg=8
