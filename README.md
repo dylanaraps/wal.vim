@@ -10,6 +10,4 @@ A vim colorscheme for use with **[pywal](https://github.com/dylanaraps/pywal)**.
 ```vim
 " Using plug
 Plug 'dylanaraps/wal.vim'
-
-colorscheme wal
 ```
