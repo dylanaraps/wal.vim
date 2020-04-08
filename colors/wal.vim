@@ -80,7 +80,7 @@ exe 'hi ModeMsg guibg=NONE ctermbg=NONE ctermfg=7 guifg='.g:color7
 exe 'hi SpellBad guibg=NONE ctermbg=NONE ctermfg=1 guifg='.g:color1.' cterm=underline gui=underline'
 exe 'hi SpellCap guibg=NONE ctermbg=NONE ctermfg=4 guifg='.g:color4.' cterm=underline gui=underline'
 exe 'hi SpellLocal guibg=NONE ctermbg=NONE ctermfg=5 guifg='.g:color5.' cterm=underline gui=underline'
-exe 'hi SpellRare guibg=NONE ctermbg=NONE ctermfg=6 guifg='.g:color6.'cterm=underline gui=underline'
+exe 'hi SpellRare guibg=NONE ctermbg=NONE ctermfg=6 guifg='.g:color6.' cterm=underline gui=underline'
 exe 'hi Boolean guibg=NONE ctermbg=NONE ctermfg=5 guifg='.g:color5
 exe 'hi Character guibg=NONE ctermbg=NONE ctermfg=1 guifg='.g:color1
 exe 'hi Conditional guibg=NONE ctermbg=NONE ctermfg=5 guifg='.g:color5
