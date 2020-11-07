@@ -13,3 +13,4 @@ Plug 'dylanaraps/wal.vim'
 
 colorscheme wal
 ```
+> Neovim users, make sure to remove `set termguicolors` as it messes up the colorscheme.
