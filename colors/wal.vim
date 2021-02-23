@@ -189,6 +189,15 @@ hi ALEWarning ctermbg=NONE ctermfg=3
 
 " }}}
 
+" Neovim treesitter {{{
+
+hi TSInclude ctermbg=NONE ctermfg=5
+hi TSNamespace ctermbg=NONE ctermfg=4
+hi TSRepeat ctermbg=NONE ctermfg=5
+hi TSOperator ctermbg=NONE ctermfg=4
+
+" }}}
+
 " Plugin options {{{
 
 let g:limelight_conceal_ctermfg = 8
